@@ -27,6 +27,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_LED_MAP { 11, 10, 9, 8, 7, 6, 0, 1, 2, 3, 4, 5 }
 #define RGBLIGHT_SPLIT
 
+#define DEBOUNCE 20
+
 /* Select hand configuration */
 #define MASTER_RIGHT
 // #define EE_HANDS
